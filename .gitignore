@@ -26,3 +26,4 @@ Thumbs.db
 # Ignore dataset files
 *.csv
 *.tar.gz
+attention_maps_experiments/attention_maps_logscale.ipynb
