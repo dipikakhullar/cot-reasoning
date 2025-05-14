@@ -1,0 +1,28 @@
+# Ignore common Python artifacts
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+*.o
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore model checkpoints or large data files
+*.pt
+*.ckpt
+
+# Ignore dataset files
+*.csv
+*.tar.gz
